@@ -2,15 +2,15 @@
 
 ## Leastways: Are You Capable? 
 
-Can you implement this alogrithm in Java?
+Can you implement this alogrithm in Java? It is a PDF of scientific paper, with plenty of clarity of how the technique works.
 
-Write a few tests to prove your code works.
+Write a battery of tests to prove your code works.
 
 Check out the pdf, and good luck.
 
 You're looking to build a Java class, and some tests that implement this idea.
 
-Leon and Kris think you can. Maybe.
+We think you can. Maybe.
 
 
 ----
